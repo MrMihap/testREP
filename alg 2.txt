@@ -1,4 +1,5 @@
 write hello
 write fuck
 write pain
+go to 11;
 final
