@@ -1,3 +1,4 @@
 write hello
 write fuck
+go to 11;
 final
