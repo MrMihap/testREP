@@ -1,3 +1,4 @@
 write hello
 write fuck
+write pain
 final
